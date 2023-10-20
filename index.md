@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="gfx/header.png" width="550" height="275"/>
+    <img src="gfx/header.png" width="550" height="190"/>
 </h1>
 
 <p align="center">
@@ -21,11 +21,22 @@ open-source plant management app where they also have control over their data. T
 of a web backend, which is the biggest part of the app, as well as a mobile app that is shipped
 to the users Android phones or tablets.
 
-## Table of contents
-1. [Installation](installation.md)
-2. [The Dashboard](dashboard.md)
-3. [Manage plants](plants.md)
-4. [Tasks](tasks.md)
-5. [Inventory](inventory.md)
-6. [Searching](searching.md)
-7. [Group Chat](groupchat.md)
+## Installation
+1. <a href="https://github.com/danielbrendel/hortusfox-web">Install the web application</a>
+2. <a href="https://github.com/danielbrendel/hortusfox-app-android">Build the mobile app</a>
+
+## Features
+1. [The Dashboard](dashboard.md)
+2. [Manage plants](plants.md)
+3. [Tasks](tasks.md)
+4. [Inventory](inventory.md)
+5. [Searching](searching.md)
+6. [Group Chat](groupchat.md)
+
+## Screenshots
+<img src="gfx/Screenshot_20231006_103421_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+<img src="gfx/Screenshot_20231006_103520_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+<img src="gfx/Screenshot_20231006_103542_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+<img src="gfx/Screenshot_20231006_103906_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+<img src="gfx/Screenshot_20231006_103935_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+<img src="gfx/Screenshot_20231006_103946_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
