@@ -32,6 +32,7 @@ to the users Android phones or tablets.
 4. [Inventory](inventory.md)
 5. [Searching](searching.md)
 6. [Group Chat](groupchat.md)
+7. [Profile](profile.md)
 
 ## Screenshots
 <img src="gfx/Screenshot_20231006_103421_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
