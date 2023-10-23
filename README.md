@@ -1,1 +1,1 @@
-Test 
+Documentation website for HortusFox, a self-hosted collaborative plant management system
