@@ -40,9 +40,11 @@ to the users Android phones or tablets.
 7. [Profile](profile.md)
 
 ## Screenshots
-<img src="gfx/Screenshot_20231023_123009_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-<img src="gfx/Screenshot_20231023_123027_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-<img src="gfx/Screenshot_20231023_123202_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-<img src="gfx/Screenshot_20231023_123229_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-<img src="gfx/Screenshot_20231023_123512_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-<img src="gfx/Screenshot_20231023_123548_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+<p align="center">
+    <img src="gfx/Screenshot_20231023_123009_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot_20231023_123027_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot_20231023_123202_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot_20231023_123229_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot_20231023_123512_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot_20231023_123548_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+</p>
