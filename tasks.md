@@ -1,9 +1,12 @@
 ## Tasks
 
 Tasks are useful to keep track of everything you need to do to take care for your plants.
-You can create tasks defining title and description. 
+You can create tasks defining title, description and due date (if desired). 
 
-<img src="gfx/Screenshot_20231006_103906_HortusFox.jpg" alt="screenshot" width="250"/>
+<img src="gfx/Screenshot_20231023_123512_HortusFox.jpg" alt="screenshot" width="250"/>
+
+If you have specified a due date and it's overdue then it will also be shown in the 
+warning section of the dashboard. 
 
 When you are done with a task you can just click on "done" setting it to completed.
 You can also view your completed tasks by using the filters.

@@ -3,11 +3,11 @@
 In order to view your plants of a location, you first need to go to a location via your dashboard or the navigation menu.
 Then you will see a list of all of your plants in that location. They are shown in a card style with name and preview image.
 
-<img src="gfx/Screenshot_20231006_103520_HortusFox.jpg" alt="screenshot" width="250"/>
+<img src="gfx/Screenshot_20231023_123202_HortusFox.jpg" alt="screenshot" width="250"/>
 
 Here you can also add a new plant to this location.
 
-<img src="gfx/Screenshot_20231006_103505_HortusFox.jpg" alt="screenshot" width="250"/>
+<img src="gfx/Screenshot_20231023_124350_HortusFox.jpg" alt="screenshot" width="250"/>
 
 The following fields are mandatory:
 - Name: The name of the plant
@@ -19,7 +19,9 @@ The following fields are mandatory:
 
 If you go to a plants' details, you will see various information and different actions are available.
 
-<img src="gfx/Screenshot_20231006_103542_HortusFox.jpg" alt="screenshot" width="250"/>
+<img src="gfx/Screenshot_20231023_123229_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+<img src="gfx/Screenshot_20231023_123401_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+<img src="gfx/Screenshot_20231023_123439_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
 
 You can:
 - View and edit various plant details

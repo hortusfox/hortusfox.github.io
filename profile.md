@@ -3,12 +3,14 @@
 Your personal profile page is useful to get an overview of what you have done recently.
 It also gives you the possibility to manage some personal preferences.
 
-<img src="gfx/Screenshot_20231006_103946_HortusFox.jpg" alt="screenshot" width="250"/>
+<img src="gfx/Screenshot_20231023_123600_HortusFox.jpg" alt="screenshot" width="250"/>
 
 The profile page shows all recently updated plants by you. It also shows all recent actions
-taken by you in your personal log.
+taken by you in your personal log (at the bottom of the page).
 
 Currently you can configure the following preferences:
+- Your name
+- Your E-Mail address
 - The localization
 - The color of your name in chat
 - Whether you want to see the history log or not
