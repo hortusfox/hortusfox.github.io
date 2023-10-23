@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img src="gfx/header.png" width="550" height="190"/>
+    <img src="gfx/logo.png" width="256"/><br/>
+    HortusFox Documentation
 </h1>
 
 <p align="center">
