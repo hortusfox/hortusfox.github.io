@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/badge/maintained-yes-green" alt="maintained-yes"/>
 </p>
 
+<p align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zbUeQ-o2odQ?si=e9eOKGJ40HcPVjb6" title="HortusFox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
 ## Description
 Welcome to the documentation of HortusFox - a self-hosted collaborative plant management system.
 HortusFox is a self-hosted collaborative platform that helps you keeping track of all your plants
