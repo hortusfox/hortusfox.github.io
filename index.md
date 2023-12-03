@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/backend-php-orange" alt="backend-php"/>
-    <img src="https://img.shields.io/badge/frontend-java-pink" alt="frontend-java"/>
+    <img src="https://img.shields.io/badge/web-php-orange" alt="web-php"/>
+    <img src="https://img.shields.io/badge/mobile-java-pink" alt="mobile-java"/>
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="license-mit"/>
     <img src="https://img.shields.io/badge/maintained-yes-green" alt="maintained-yes"/>
 </p>
@@ -22,9 +22,8 @@
 Welcome to the documentation of HortusFox - a self-hosted collaborative plant management system.
 HortusFox is a self-hosted collaborative platform that helps you keeping track of all your plants
 in your local environment. It is especially suited for tech savy plant parents who want to use an
-open-source plant management app where they also have control over their data. The system consists
-of a web backend, which is the biggest part of the app, as well as a mobile app that is shipped
-to the users Android phones or tablets.
+open-source plant management app where they also have control over their data. The system is made
+as a web application and there is also an android mobile phone app available.
 
 ## Installation
 1. <a href="https://github.com/danielbrendel/hortusfox-web">Install the web application</a>
@@ -38,6 +37,7 @@ to the users Android phones or tablets.
 5. [Searching](searching.md)
 6. [Group Chat](groupchat.md)
 7. [Profile](profile.md)
+8. [Admin](admin.md)
 
 ## Screenshots
 <p align="center">
