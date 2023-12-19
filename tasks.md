@@ -3,7 +3,7 @@
 Tasks are useful to keep track of everything you need to do to take care for your plants.
 You can create tasks defining title, description and due date (if desired). 
 
-<img src="gfx/Screenshot_20231023_123512_HortusFox.jpg" alt="screenshot" width="250"/>
+<img src="gfx/Screenshot_20231219_151428_HortusFox.jpg" alt="screenshot" width="250"/>
 
 If you have specified a due date and it's overdue then it will also be shown in the 
 warning section of the dashboard. 

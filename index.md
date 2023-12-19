@@ -41,10 +41,10 @@ as a web application and there is also an android mobile phone app available.
 
 ## Screenshots
 <p align="center">
-    <img src="gfx/Screenshot_20231023_123009_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-    <img src="gfx/Screenshot_20231023_123027_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-    <img src="gfx/Screenshot_20231023_123202_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-    <img src="gfx/Screenshot_20231023_123229_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-    <img src="gfx/Screenshot_20231023_123512_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-    <img src="gfx/Screenshot_20231023_123548_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot_20231219_151002_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot_20231219_151018_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot_20231219_151203_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot_20231219_151221_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot_20231219_151428_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot_20231219_151456_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
 </p>
