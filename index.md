@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    Current version: <strong><code>1.0</code></strong>
+    Current version: <strong><code>1.2</code></strong>
 </p>
 
 <p align="center">
