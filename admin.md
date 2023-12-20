@@ -9,6 +9,11 @@ It is recommended to access the admin area via a desktop screen, but you can use
 
 <img src="gfx/Screenshot_20231219_151537_HortusFox.jpg" alt="screenshot" width="250"/>
 
+Note: You can also check for new versions via the related button. When issued the command then the system will try to check whether a new
+version is available or not. If so then it shows you the new version and a link to obtain the new version.
+
+<img src="gfx/Screenshot 2023-12-20 160912.png" alt="screenshot" width="250"/>
+
 <p><hr/></p>
 
 [Go back](index.md)
