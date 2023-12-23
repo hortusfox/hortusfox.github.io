@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    Current version: <strong><code>1.3</code></strong>
+    Current version: <strong><code>1.4</code></strong>
 </p>
 
 <p align="center">
@@ -36,11 +36,13 @@ as a web application and there is also an android mobile phone app available.
 4. [Inventory](inventory.md)
 5. [Searching](searching.md)
 6. [Group Chat](groupchat.md)
-7. [Profile](profile.md)
-8. [Admin](admin.md)
+7. [History](history.md)
+8. [Profile](profile.md)
+9. [Admin](admin.md)
 
 ## Upgrade Guides
-1. [From 1.2 to 1.3](1.2to1.3.md)
+1. [From 1.3 to 1.4](1.3to1.4.md)
+2. [From 1.2 to 1.3](1.2to1.3.md)
 
 ## Screenshots
 <p align="center">
