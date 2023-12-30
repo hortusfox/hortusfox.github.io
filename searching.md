@@ -13,6 +13,8 @@ Currently you can specify what columns shall be included in the search:
 - Tags
 - Notes
 
+You can also input plant IDs in the format #N where N is the ID of the plant, e.g. #0123
+
 <p><hr/></p>
 
 [Go back](index.md)
