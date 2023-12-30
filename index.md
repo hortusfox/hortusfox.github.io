@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+    <a href="https://www.hortusfox.com/">www.hortusfox.com</a>
+</p>
+
+<p align="center">
     <img src="https://img.shields.io/badge/web-php-orange" alt="web-php"/>
     <img src="https://img.shields.io/badge/mobile-java-pink" alt="mobile-java"/>
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="license-mit"/>
@@ -41,8 +45,9 @@ as a web application and there is also an android mobile phone app available.
 9. [Admin](admin.md)
 
 ## Upgrade Guides
-1. [From 1.3 to 1.4](1.3to1.4.md)
-2. [From 1.2 to 1.3](1.2to1.3.md)
+1. [From 1.4 to 1.5](1.4to1.5.md)
+2. [From 1.3 to 1.4](1.3to1.4.md)
+3. [From 1.2 to 1.3](1.2to1.3.md)
 
 ## Screenshots
 <p align="center">
