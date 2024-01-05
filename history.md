@@ -6,6 +6,10 @@ Plants that are moved to this section will not appear in any locations/rooms and
 anymore. If you mistakenly moved a plant to this section then you can undo that. There is also a sorting and filter available as well as a
 calendary list of years where plants have been moved to this section. 
 
+<img src="gfx/Screenshot 2024-01-05 143057.png" alt="screenshot"/>
+
+<img src="gfx/Screenshot 2024-01-05 143124.png" alt="screenshot" width="250"/>
+
 <p><hr/></p>
 
 [Go back](index.md)

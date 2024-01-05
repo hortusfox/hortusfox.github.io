@@ -30,7 +30,7 @@ You can:
 - Assign tags for a better categorization
 - Add detailed notes
 - Manage photo gallery for this plant
-- Remove a plant
+- Remove a plant or move a plant to history (if activated)
 
 <p><hr/></p>
 

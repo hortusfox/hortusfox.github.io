@@ -11,9 +11,14 @@ taken by you in your personal log (at the bottom of the page).
 Currently you can configure the following preferences:
 - Your name
 - Your E-Mail address
+- Change your password
 - The localization
 - The color of your name in chat
 - Whether you want to see the history log or not
+- Notification subscriptions
+- Recent plants mode in your dashboard
+
+<img src="gfx/Screenshot 2024-01-05 143407.png" alt="screenshot"/>
 
 <p><hr/></p>
 

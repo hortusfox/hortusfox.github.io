@@ -20,8 +20,8 @@ navigate to a location regardless what page you are currently viewing.
 
 <img src="gfx/Screenshot_20231219_151018_HortusFox.jpg" alt="screenshot" width="250"/>
 
-### Last added plants
-In this section you can see a list of the last added plants. This can be also helpful to quickly navigate to them.
+### Last added / updated plants
+In this section you can see a list of the last added plants or the last updated plants depending on your preferences.
 
 <img src="gfx/Screenshot 2023-12-30 215931.png" alt="screenshot" width="250"/>
 
