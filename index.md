@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    Current version: <strong><code>1.5</code></strong>
+    Current version: <strong><code>1.6</code></strong>
 </p>
 
 <p align="center">
@@ -45,9 +45,10 @@ as a web application and there is also an android mobile phone app available.
 9. [Admin](admin.md)
 
 ## Upgrade Guides
-1. [From 1.4 to 1.5](1.4to1.5.md)
-2. [From 1.3 to 1.4](1.3to1.4.md)
-3. [From 1.2 to 1.3](1.2to1.3.md)
+1. [From 1.4 to 1.5](1.5to1.6.md)
+2. [From 1.4 to 1.5](1.4to1.5.md)
+3. [From 1.3 to 1.4](1.3to1.4.md)
+4. [From 1.2 to 1.3](1.2to1.3.md)
 
 ## Screenshots
 <p align="center">
