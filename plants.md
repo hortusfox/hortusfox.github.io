@@ -32,6 +32,12 @@ You can:
 - Manage photo gallery for this plant
 - Remove a plant or move a plant to history (if activated)
 
+You can also share a photo publicly in order to send a link to the photo to others. The shared photo is only available to
+those of whom you share the link with. Once sharing succeeded you will get a confirmation e-mail with details as well as a removal
+link in case you want to delete the shared photo again. This feature needs to be enabled by an administrator and is disabled by default.
+
+<img src="gfx/Screenshot 2024-01-25 121530.png" alt="screenshot"/>
+
 <p><hr/></p>
 
 [Go back](index.md)
