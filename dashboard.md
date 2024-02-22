@@ -26,7 +26,7 @@ In this section you can see a list of the last added plants or the last updated 
 <img src="gfx/Screenshot 2023-12-30 215931.png" alt="screenshot" width="250"/>
 
 ### Log
-The log shows the recent history of actions performed by all users. You can toggle if you want to see this log in your <a href="profile.md">preferences</a>. 
+The log shows the recent history of actions performed by all users. You can toggle if you want to see this log in your <a href="profile.md">preferences</a>. Most log entries are linked to the object it refers to, so you can click/tap on them.
 
 <img src="gfx/Screenshot_20231219_151029_HortusFox.jpg" alt="screenshot" width="250"/>
 
