@@ -9,9 +9,10 @@ What you can do:
 - Manage users
 - Manage locations
 - Manage SMTP settings
+- Export or import your data
 - View infos and perform version check
 
-<img src="gfx/Screenshot 2024-01-25 120346.png" alt="screenshot"/>
+<img src="gfx/Screenshot 2024-02-22 152507.png" alt="screenshot"/>
 
 <img src="gfx/Screenshot 2024-01-25 120407.png" alt="screenshot"/>
 
@@ -21,10 +22,12 @@ What you can do:
 
 <img src="gfx/Screenshot 2024-01-25 120531.png" alt="screenshot"/>
 
+<img src="gfx/Screenshot 2024-02-22 152906.png" alt="screenshot"/>
+
 Note: You can also check for new versions via the related button. When issued the command then the system will try to check whether a new
 version is available or not. If so then it shows you the new version and a link to obtain the new version.
 
-<img src="gfx/Screenshot 2024-01-25 120610.png" alt="screenshot"/>
+<img src="gfx/Screenshot 2024-02-22 153525.png" alt="screenshot"/>
 
 <p><hr/></p>
 
