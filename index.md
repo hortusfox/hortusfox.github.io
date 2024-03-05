@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    Current version: <strong><code>2.2</code></strong>
+    Current version: <strong><code>2.3</code></strong>
 </p>
 
 <p align="center">
@@ -45,20 +45,21 @@ as a web application and there is also an android mobile phone app available.
 9. [Admin](admin.md)
 
 ## Upgrade Guides
-1. [From 2.1 to 2.2](2.1to2.2.md)
-1. [From 2.0 to 2.1](2.0to2.1.md)
-1. [From 1.6 to 2.0](1.6to2.0.md)
-2. [From 1.5 to 1.6](1.5to1.6.md)
-3. [From 1.4 to 1.5](1.4to1.5.md)
-4. [From 1.3 to 1.4](1.3to1.4.md)
-5. [From 1.2 to 1.3](1.2to1.3.md)
+1. [From 2.2 to 2.3](2.2to2.3.md)
+2. [From 2.1 to 2.2](2.1to2.2.md)
+3. [From 2.0 to 2.1](2.0to2.1.md)
+4. [From 1.6 to 2.0](1.6to2.0.md)
+5. [From 1.5 to 1.6](1.5to1.6.md)
+6. [From 1.4 to 1.5](1.4to1.5.md)
+7. [From 1.3 to 1.4](1.3to1.4.md)
+8. [From 1.2 to 1.3](1.2to1.3.md)
 
 ## Screenshots
 <p align="center">
-    <img src="gfx/Screenshot_20231219_151002_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-    <img src="gfx/Screenshot_20231219_151018_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-    <img src="gfx/Screenshot_20231219_151203_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-    <img src="gfx/Screenshot_20231219_151221_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-    <img src="gfx/Screenshot_20231219_151428_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-    <img src="gfx/Screenshot_20231219_151456_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot 2024-03-05 180231.png" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot 2024-03-05 180919.png" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot 2024-03-05 181025.png" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot 2024-03-05 183724.png" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot 2024-03-05 183931.png" alt="screenshot" width="250"/>&nbsp;
+    <img src="gfx/Screenshot 2024-03-05 184339.png" alt="screenshot" width="250"/>&nbsp;
 </p>

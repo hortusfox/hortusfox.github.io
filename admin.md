@@ -12,22 +12,24 @@ What you can do:
 - Export or import your data
 - View infos and perform version check
 
-<img src="gfx/Screenshot 2024-02-22 152507.png" alt="screenshot"/>
+<img src="gfx/Screenshot 2024-03-05 194645.png" alt="screenshot"/>
 
-<img src="gfx/Screenshot 2024-01-25 120407.png" alt="screenshot"/>
+<img src="gfx/Screenshot 2024-03-05 194700.png" alt="screenshot"/>
 
-<img src="gfx/Screenshot 2024-01-25 120436.png" alt="screenshot"/>
+<img src="gfx/Screenshot 2024-03-05 195503.png" alt="screenshot"/>
 
-<img src="gfx/Screenshot 2024-01-25 120452.png" alt="screenshot"/>
+<img src="gfx/Screenshot 2024-03-05 194949.png" alt="screenshot"/>
 
-<img src="gfx/Screenshot 2024-01-25 120531.png" alt="screenshot"/>
+<img src="gfx/Screenshot 2024-03-05 195047.png" alt="screenshot"/>
 
-<img src="gfx/Screenshot 2024-02-22 152906.png" alt="screenshot"/>
+<img src="gfx/Screenshot 2024-03-05 195106.png" alt="screenshot"/>
+
+<img src="gfx/Screenshot 2024-03-05 195127.png" alt="screenshot"/>
 
 Note: You can also check for new versions via the related button. When issued the command then the system will try to check whether a new
 version is available or not. If so then it shows you the new version and a link to obtain the new version.
 
-<img src="gfx/Screenshot 2024-02-22 153525.png" alt="screenshot"/>
+<img src="gfx/Screenshot 2024-03-05 195207.png" alt="screenshot"/>
 
 <p><hr/></p>
 

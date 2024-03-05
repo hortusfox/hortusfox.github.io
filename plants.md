@@ -4,11 +4,11 @@ In order to view your plants of a location, you first need to go to a location v
 Then you will see a list of all of your plants in that location. They are shown in a card style with name and preview image.
 You can also sort them by various options as well as filter the list for text tokens.
 
-<img src="gfx/Screenshot_20231219_151203_HortusFox.jpg" alt="screenshot" width="250"/>
+<img src="gfx/Screenshot 2024-03-05 180919.png" alt="screenshot" width="250"/>
 
 Here you can also add a new plant to this location.
 
-<img src="gfx/Screenshot_20231023_124350_HortusFox.jpg" alt="screenshot" width="250"/>
+<img src="gfx/Screenshot 2024-03-05 193918.png" alt="screenshot" width="250"/>
 
 The following fields are mandatory:
 - Name: The name of the plant
@@ -20,9 +20,8 @@ The following fields are mandatory:
 
 If you go to a plants' details, you will see various information and different actions are available.
 
-<img src="gfx/Screenshot_20231219_151221_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-<img src="gfx/Screenshot_20231219_151235_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
-<img src="gfx/Screenshot_20231219_151242_HortusFox.jpg" alt="screenshot" width="250"/>&nbsp;
+<img src="gfx/Screenshot 2024-03-05 181025.png" alt="screenshot" width="250"/>&nbsp;
+<img src="gfx/Screenshot 2024-03-05 183724.png" alt="screenshot" width="250"/>&nbsp;
 
 You can:
 - View and edit various plant details
@@ -35,8 +34,6 @@ You can:
 You can also share a photo publicly in order to send a link to the photo to others. The shared photo is only available to
 those of whom you share the link with. Once sharing succeeded you will get a confirmation e-mail with details as well as a removal
 link in case you want to delete the shared photo again. This feature needs to be enabled by an administrator and is disabled by default.
-
-<img src="gfx/Screenshot 2024-01-25 121530.png" alt="screenshot"/>
 
 <p><hr/></p>
 

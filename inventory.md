@@ -5,7 +5,7 @@ care of your plants. Sometimes it can be quite a struggle to remember all things
 or collected for taking care of your plants especially if you own a large number of plants.
 The inventory can assist you with this.
 
-<img src="gfx/Screenshot_20231219_151456_HortusFox.jpg" alt="screenshot" width="250"/>
+<img src="gfx/Screenshot 2024-03-05 184339.png" alt="screenshot" width="250"/>
 
 Items in your inventory are categorized by groups. So in order to add something to your inventory,
 you first need to add some groups. When adding groups you need to enter a token (which is mostly
