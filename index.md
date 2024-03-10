@@ -42,7 +42,8 @@ as a web application and there is also an android mobile phone app available.
 6. [Group Chat](groupchat.md)
 7. [History](history.md)
 8. [Profile](profile.md)
-9. [Admin](admin.md)
+9. [Themes](themes.md)
+10. [Admin](admin.md)
 
 ## Upgrade Guides
 1. [From 2.2 to 2.3](2.2to2.3.md)
