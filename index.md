@@ -46,11 +46,12 @@ as a web application and there is also an android mobile phone app available.
 3. [Tasks](tasks.md)
 4. [Inventory](inventory.md)
 5. [Searching](searching.md)
-6. [Group Chat](groupchat.md)
-7. [History](history.md)
-8. [Profile](profile.md)
-9. [Themes](themes.md)
-10. [Admin](admin.md)
+6. [Calendar](calendar.md)
+7. [Group Chat](groupchat.md)
+8. [History](history.md)
+9. [Profile](profile.md)
+10. [Themes](themes.md)
+11. [Admin](admin.md)
 
 ## Upgrade Guides
 1. [From 2.5 to 3.0](2.5to3.0.md)
