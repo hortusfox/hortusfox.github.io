@@ -47,11 +47,12 @@ as a web application and there is also an android mobile phone app available.
 4. [Inventory](inventory.md)
 5. [Searching](searching.md)
 6. [Calendar](calendar.md)
-7. [Group Chat](groupchat.md)
-8. [History](history.md)
-9. [Profile](profile.md)
-10. [Themes](themes.md)
-11. [Admin](admin.md)
+7. [Weather](weather.md)
+8. [Group Chat](groupchat.md)
+9. [History](history.md)
+10. [Profile](profile.md)
+11. [Themes](themes.md)
+12. [Admin](admin.md)
 
 ## Upgrade Guides
 1. [From 2.5 to 3.0](2.5to3.0.md)
