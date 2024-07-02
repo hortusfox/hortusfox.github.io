@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    Current version: <strong><code>3.1</code></strong>
+    Current version: <strong><code>3.2</code></strong>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <p align="center">
     <a href="https://discord.gg/kc6xGmjzVS"><img src="https://img.shields.io/badge/discord-5715BA?style=for-the-badge&logo=discord&logoColor=white" alt="social-discord"></a>
-    <a href="https://www.reddit.com/r/hortusfox/"><img src="https://img.shields.io/badge/reddit-D1550A?style=for-the-badge&logo=reddit&logoColor=white" alt="social-reddit"></a>
+    <a href="https://mastodon.social/@hortusfox"><img src="https://img.shields.io/badge/mastodon-D1550A?style=for-the-badge&logo=mastodon&logoColor=white" alt="social-mastodon"></a>
     <a href="https://www.youtube.com/@HortusFox"><img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="social-youtube"></a>
     <a href="https://www.instagram.com/hortusfox/"><img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="social-instagram"></a>
 </p>
@@ -55,18 +55,15 @@ as a web application and there is also an android mobile phone app available.
 12. [Admin](admin.md)
 
 ## Upgrade Guides
-1. [From 3.0 to 3.1](3.0to3.1.md)
-2. [From 2.5 to 3.0](2.5to3.0.md)
-3. [From 2.4 to 2.5](2.4to2.5.md)
-4. [From 2.3 to 2.4](2.3to2.4.md)
-5. [From 2.2 to 2.3](2.2to2.3.md)
-6. [From 2.1 to 2.2](2.1to2.2.md)
-7. [From 2.0 to 2.1](2.0to2.1.md)
-8. [From 1.6 to 2.0](1.6to2.0.md)
-9. [From 1.5 to 1.6](1.5to1.6.md)
-10. [From 1.4 to 1.5](1.4to1.5.md)
-11. [From 1.3 to 1.4](1.3to1.4.md)
-12. [From 1.2 to 1.3](1.2to1.3.md)
+1. [From 3.1 to 3.2](3.1to3.2.md)
+2. [From 3.0 to 3.1](3.0to3.1.md)
+3. [From 2.5 to 3.0](2.5to3.0.md)
+4. [From 2.4 to 2.5](2.4to2.5.md)
+5. [From 2.3 to 2.4](2.3to2.4.md)
+6. [From 2.2 to 2.3](2.2to2.3.md)
+7. [From 2.1 to 2.2](2.1to2.2.md)
+8. [From 2.0 to 2.1](2.0to2.1.md)
+9. [From 1.6 to 2.0](1.6to2.0.md)
 
 ## REST API
 HortusFox features a REST API beginning with v3.1. Please refer to our [API Reference](api.md) for more information.

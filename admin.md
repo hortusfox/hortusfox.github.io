@@ -8,11 +8,16 @@ What you can do:
 - Manage media settings of app look
 - Manage users
 - Manage locations
-- Manage SMTP settings
+- Manage plant attributes
+- Manage calendar settings
+- Manage e-mailing settings
+- Manage themes
 - Export or import your data
+- Manage OpenWeatherMap settings
+- Manage API keys
 - View infos and perform version check
 
-<img src="gfx/Screenshot 2024-03-05 194645.png" alt="screenshot"/>
+<img src="gfx/Screenshot 2024-07-02 225017.png" alt="screenshot"/>
 
 <img src="gfx/Screenshot 2024-03-05 194700.png" alt="screenshot"/>
 
