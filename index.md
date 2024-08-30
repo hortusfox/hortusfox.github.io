@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    Current version: <strong><code>3.3</code></strong>
+    Current version: <strong><code>3.4</code></strong>
 </p>
 
 <p align="center">
@@ -54,16 +54,10 @@ as a web application and there is also an android mobile phone app available.
 12. [Admin](admin.md)
 
 ## Upgrade Guides
-1. [From 3.2 to 3.3](3.2to3.3.md)
-2. [From 3.1 to 3.2](3.1to3.2.md)
-3. [From 3.0 to 3.1](3.0to3.1.md)
-4. [From 2.5 to 3.0](2.5to3.0.md)
-5. [From 2.4 to 2.5](2.4to2.5.md)
-6. [From 2.3 to 2.4](2.3to2.4.md)
-7. [From 2.2 to 2.3](2.2to2.3.md)
-8. [From 2.1 to 2.2](2.1to2.2.md)
-9. [From 2.0 to 2.1](2.0to2.1.md)
-10. [From 1.6 to 2.0](1.6to2.0.md)
+1. [From 3.3 to 3.4](3.3to3.4.md)
+2. [From 3.2 to 3.3](3.2to3.3.md)
+3. [From 3.1 to 3.2](3.1to3.2.md)
+4. [From 3.0 to 3.1](3.0to3.1.md)
 
 ## REST API
 HortusFox features a REST API beginning with v3.1. Please refer to our [API Reference](api.md) for more information.
