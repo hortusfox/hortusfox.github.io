@@ -13,7 +13,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/web-php-orange" alt="web-php"/>
-    <img src="https://img.shields.io/badge/mobile-java-pink" alt="mobile-java"/>
+    <img src="https://img.shields.io/badge/mobile-pwa-pink" alt="mobile-pwa"/>
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="license-mit"/>
     <img src="https://img.shields.io/badge/maintained-yes-green" alt="maintained-yes"/>
 </p>
@@ -36,8 +36,7 @@ open-source plant management app where they also have control over their data. T
 as a web application and there is also an android mobile phone app available.
 
 ## Installation
-1. <a href="https://github.com/danielbrendel/hortusfox-web">Install the web application</a>
-2. <a href="https://github.com/danielbrendel/hortusfox-app-android">Build the mobile app</a>
+Please view the installation guide of the <a href="https://github.com/danielbrendel/hortusfox-web">web application</a> in order to install HortusFox.
 
 ## Features
 1. [The Dashboard](dashboard.md)
