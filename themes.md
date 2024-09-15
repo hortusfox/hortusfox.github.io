@@ -70,6 +70,10 @@ For the optional accessory asset you also need to specify the asset. Similar to 
 To test your theme, just copy it to a local test workspace to `/public/themes`. When you are ready to ship your theme, compress it to a ZIP file and you can then
 install this ZIP file on a HortusFox workspace.
 
+### Contributing themes
+
+If you have made a theme you want to share, please create a PR in the associated <a href="https://github.com/danielbrendel/hortusfox-themes">repository</a>. Approved themes will also be included as a download on the official HortusFox homepage.
+
 <p><hr/></p>
 
 [Go back](index.md)
