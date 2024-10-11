@@ -53,10 +53,11 @@ Please view the installation guide of the <a href="https://github.com/danielbren
 12. [Admin](admin.md)
 
 ## Upgrade Guides
-1. [From 3.3 to 3.4](3.3to3.4.md)
-2. [From 3.2 to 3.3](3.2to3.3.md)
-3. [From 3.1 to 3.2](3.1to3.2.md)
-4. [From 3.0 to 3.1](3.0to3.1.md)
+1. [From 3.4 to 3.5](3.4to3.5.md)
+2. [From 3.3 to 3.4](3.3to3.4.md)
+3. [From 3.2 to 3.3](3.2to3.3.md)
+4. [From 3.1 to 3.2](3.1to3.2.md)
+5. [From 3.0 to 3.1](3.0to3.1.md)
 
 ## REST API
 HortusFox features a REST API beginning with v3.1. Please refer to our [API Reference](api.md) for more information.
