@@ -17,7 +17,9 @@ You can generate as many API keys as you want.
 
 ## API endpoints
 
-### Get plant details
+### Plants
+
+#### Get plant details
 
 Returns default and custom plant attributes of a plant.
 
@@ -25,7 +27,7 @@ Returns default and custom plant attributes of a plant.
 ANY /api/plants/get?plant=(plant ID)
 ```
 
-### Update plant default attribute
+#### Update plant default attribute
 
 Updates a default attribute of a plant
 
@@ -33,7 +35,7 @@ Updates a default attribute of a plant
 ANY /api/plants/update?plant=(plant ID)&attribute=(attribute name)&value=(new value)
 ```
 
-### Delete a plant
+#### Delete a plant
 
 Deletes a plant from your database. Note: If you just want to move a plant to the history, you can just use the update plant method and set history = 1.
 
@@ -41,7 +43,7 @@ Deletes a plant from your database. Note: If you just want to move a plant to th
 ANY /api/plants/remove?plant=(plant ID)
 ```
 
-### Get list of plants
+#### Get list of plants
 
 Returns a plant list from a location
 
@@ -49,7 +51,7 @@ Returns a plant list from a location
 ANY /api/plants/list?location=(plant location ID)&limit=(max amount of returned results)&from=(start from this ID)&sort=(asc/desc)
 ```
 
-### Search for plants
+#### Search for plants
 
 Search through the plant database
 
@@ -57,7 +59,7 @@ Search through the plant database
 ANY /api/plants/search?expression=(search token)&limit=(max amount of returned results)
 ```
 
-### Add custom plant attribute
+#### Add custom plant attribute
 
 Adds a custom plant attribute to a specific plant
 
@@ -65,7 +67,7 @@ Adds a custom plant attribute to a specific plant
 ANY /api/plants/attributes/add?plant=(plant ID)&label=(attribute label)&datatype=(bool/int/double/string/datetime)&content=(data content)
 ```
 
-### Edit custom plant attribute
+#### Edit custom plant attribute
 
 Edits an existing custom plant attribute of a specific plant
 
@@ -73,7 +75,7 @@ Edits an existing custom plant attribute of a specific plant
 ANY /api/plants/attributes/edit?attribute=(attribute ID)&label=(attribute label)&datatype=(bool/int/double/string/datetime)&content=(data content)
 ```
 
-### Remove custom plant attribute
+#### Remove custom plant attribute
 
 Removes an existing custom plant attribute of a specific plant
 
@@ -81,7 +83,71 @@ Removes an existing custom plant attribute of a specific plant
 ANY /api/plants/attributes/remove?attribute=(attribute ID)
 ```
 
-## API call results
+#### Update preview photo
+
+Updates a plants preview photo by uploading a photo or by linking an external photo
+
+```
+ANY /api/plants/photo/update?plant=(plant ID)&external=0/1&photo=(link or photo file via POST)
+```
+
+#### Add gallery photo
+
+Upload a gallery photo or add an external photo
+
+```
+ANY /api/plants/gallery/add?plant=(plant ID)&label=(item label text)&external=0/1&photo=(link or photo file via POST)
+```
+
+#### Edit gallery photo
+
+Edit a gallery photo item
+
+```
+ANY /api/plants/gallery/edit?plant=(plant ID)&item=(gallery item ID)&label=(item label text)
+```
+
+#### Remove gallery photo
+
+Remove a gallery photo item
+
+```
+ANY /api/plants/gallery/remove?item=(gallery item ID)
+```
+
+#### Add plant log entry
+
+Adds a new entry to a plants log
+
+```
+ANY /api/plants/log/add?plant=(plant ID)&content=(Log content)
+```
+
+#### Edit plant log entry
+
+Edits an existing entry of a plants log
+
+```
+ANY /api/plants/log/edit?logid=(log item ID)&content=(Log content)
+```
+
+#### Remove plant log entry
+
+Removes an existing entry of a plants log
+
+```
+ANY /api/plants/log/remove?logid=(log item ID)
+```
+
+#### Fetch plant log
+
+Fetches the plant log of a specific plant
+
+```
+ANY /api/plants/log/fetch?plant=(plant ID)&paginate=(starting number, descending order)&limit=(amount of maximum returned entries)
+```
+
+### API call results
 
 The returned responses of an API call depends on whether the operation succeeded or failed.
 
