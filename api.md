@@ -181,6 +181,56 @@ Remove an existing task
 ANY /api/tasks/remove?task=(task ID)
 ```
 
+### Inventory
+
+#### Fetch inventory
+
+Fetches the entire inventory
+
+```
+ANY /api/inventory/fetch
+```
+
+#### Add new inventory item
+
+Adds a new inventory item
+
+```
+ANY /api/inventory/add?name=(item name)&description=(item description)&location=(Optional location text)&group=(group ident text)&photo=(Photo to be used, use POST for file uploads)
+```
+
+#### Edit inventory item
+
+Edit an existing inventory item
+
+```
+ANY /api/inventory/edit?item=(item ID)&name=(item name)&description=(item description)&location=(Optional location text)&group=(group ident text)&photo=(Photo to be used, use POST for file uploads)
+```
+
+#### Increment inventory item count
+
+Increments the inventory items count
+
+```
+ANY /api/inventory/amount/inc?item=(item ID)
+```
+
+#### Decrement inventory item count
+
+Decrements the inventory items count
+
+```
+ANY /api/inventory/amount/dec?item=(item ID)
+```
+
+#### Remove inventory item
+
+Remove an existing inventory item
+
+```
+ANY /api/inventory/remove?item=(item ID)
+```
+
 ### API call results
 
 The returned responses of an API call depends on whether the operation succeeded or failed.
