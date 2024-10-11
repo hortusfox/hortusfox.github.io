@@ -147,6 +147,40 @@ Fetches the plant log of a specific plant
 ANY /api/plants/log/fetch?plant=(plant ID)&paginate=(starting number, descending order)&limit=(amount of maximum returned entries)
 ```
 
+### Tasks
+
+#### Fetch tasks
+
+Fetches a list of tasks
+
+```
+ANY /api/tasks/fetch?done=(0/1)&limit=(amount of maximum returned entries)
+```
+
+#### Add new task
+
+Adds a new task
+
+```
+ANY /api/tasks/add?title=(title text)&description=(task description)&due_date=(Optional due date)
+```
+
+#### Edit task
+
+Edit an existing task
+
+```
+ANY /api/tasks/edit?task=(task ID)&title=(title text)&description=(task description)&due_date=(Optional due date)&done=(0/1)
+```
+
+#### Remove task
+
+Remove an existing task
+
+```
+ANY /api/tasks/remove?task=(task ID)
+```
+
 ### API call results
 
 The returned responses of an API call depends on whether the operation succeeded or failed.
