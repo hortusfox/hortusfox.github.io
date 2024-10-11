@@ -265,6 +265,24 @@ Remove an existing calendar entry
 ANY /api/calendar/remove?ident=(entry item ID)
 ```
 
+### Chat
+
+#### Fetch chat content
+
+Fetches recent content of the chat
+
+```
+ANY /api/chat/fetch?limit=(maximum amount of returned chat messages)
+```
+
+#### Add chat message
+
+Adds a new chat message using `System` as username.
+
+```
+ANY /api/chat/message/add?message=(message content)
+```
+
 ### API call results
 
 The returned responses of an API call depends on whether the operation succeeded or failed.
