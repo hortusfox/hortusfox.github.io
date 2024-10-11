@@ -231,6 +231,40 @@ Remove an existing inventory item
 ANY /api/inventory/remove?item=(item ID)
 ```
 
+### Calendar
+
+#### Fetch calendar entries
+
+Fetches calendar entries between a specific date range
+
+```
+ANY /api/calendar/fetch?date_from=(inclusive starting date, if not provided current date is used)&date_till=(inclusive end date, if not provided current date +30 days is used)
+```
+
+#### Add calendar entry
+
+Add a new calendar entry
+
+```
+ANY /api/calendar/add?name=(entry name)&date_from=(starting date of event)&date_till=(end date of event)&class=(event class descriptor)
+```
+
+#### Edit calendar entry
+
+Edit an existing calendar entry
+
+```
+ANY /api/calendar/edit?ident=(entry item ID)&name=(entry name)&date_from=(starting date of event)&date_till=(end date of event)&class=(event class descriptor)
+```
+
+#### Remove calendar entry
+
+Remove an existing calendar entry
+
+```
+ANY /api/calendar/remove?ident=(entry item ID)
+```
+
 ### API call results
 
 The returned responses of an API call depends on whether the operation succeeded or failed.
