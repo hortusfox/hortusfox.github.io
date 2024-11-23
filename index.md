@@ -62,6 +62,10 @@ Please view the installation guide of the <a href="https://github.com/danielbren
 ## REST API
 HortusFox features a REST API beginning with v3.1. Please refer to our [API Reference](api.md) for more information.
 
+## Photo sharing
+HortusFox offers the possibility to share photos via hortusfox.com. This can be done either privately or publicly.
+If you want to let your workspace share photos on your own backend, please refer to [Custom Sharing Backend](sharing.md) for more information.
+
 ## Screenshots
 <p align="center">
     <img src="gfx/Screenshot 2024-03-05 180231.png" alt="screenshot" width="250"/>&nbsp;
