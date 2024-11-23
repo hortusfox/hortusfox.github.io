@@ -204,7 +204,7 @@ ANY /api/inventory/add?name=(item name)&description=(item description)&location=
 Edit an existing inventory item
 
 ```
-ANY /api/inventory/edit?item=(item ID)&name=(item name)&description=(item description)&location=(Optional location text)&group=(group ident text)&photo=(Photo to be used, use POST for file uploads)
+ANY /api/inventory/edit?item=(item ID)&name=(item name)&description=(item description)&amount=(numeric value)&location=(Optional location text)&group=(group ident text)&photo=(Photo to be used, use POST for file uploads)
 ```
 
 #### Increment inventory item count
