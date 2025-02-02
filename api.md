@@ -27,6 +27,14 @@ Returns default and custom plant attributes of a plant.
 ANY /api/plants/get?plant=(plant ID)
 ```
 
+#### Add plant
+
+Adds a new plant with base data
+
+```
+ANY /api/plants/add?name=(Name of plant)&location=(location ID)
+```
+
 #### Update plant default attribute
 
 Updates a default attribute of a plant
