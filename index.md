@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    Current version: <strong><code>3.9</code></strong>
+    Current version: <strong><code>4.0</code></strong>
 </p>
 
 <p align="center">
@@ -53,11 +53,11 @@ Please view the installation guide of the <a href="https://github.com/danielbren
 12. [Admin](admin.md)
 
 ## Upgrade Guides
-1. [From 3.8 to 3.9](3.8to3.9.md)
-2. [From 3.7 to 3.8](3.7to3.8.md)
-3. [From 3.6 to 3.7](3.6to3.7.md)
-4. [From 3.5 to 3.6](3.5to3.6.md)
-5. [From 3.4 to 3.5](3.4to3.5.md)
+1. [From 3.9 to 4.0](3.9to4.0.md)
+2. [From 3.8 to 3.9](3.8to3.9.md)
+3. [From 3.7 to 3.8](3.7to3.8.md)
+4. [From 3.6 to 3.7](3.6to3.7.md)
+5. [From 3.5 to 3.6](3.5to3.6.md)
 
 ## REST API
 HortusFox features a REST API beginning with v3.1. Please refer to our [API Reference](api.md) for more information.
