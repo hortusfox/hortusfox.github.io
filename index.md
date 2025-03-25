@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    Current version: <strong><code>4.0</code></strong>
+    Current version: <strong><code>4.5</code></strong>
 </p>
 
 <p align="center">
@@ -32,8 +32,7 @@
 Welcome to the documentation of HortusFox - a self-hosted collaborative plant management system.
 HortusFox is a self-hosted collaborative platform that helps you keeping track of all your plants
 in your local environment. It is especially suited for tech savy plant parents who want to use an
-open-source plant management app where they also have control over their data. The system is made
-as a web application and there is also an android mobile phone app available.
+open-source plant management app where they also have control over their data.
 
 ## Installation
 Please view the installation guide of the <a href="https://github.com/danielbrendel/hortusfox-web">web application</a> in order to install HortusFox.
@@ -51,13 +50,6 @@ Please view the installation guide of the <a href="https://github.com/danielbren
 10. [Profile](profile.md)
 11. [Themes](themes.md)
 12. [Admin](admin.md)
-
-## Upgrade Guides
-1. [From 3.9 to 4.0](3.9to4.0.md)
-2. [From 3.8 to 3.9](3.8to3.9.md)
-3. [From 3.7 to 3.8](3.7to3.8.md)
-4. [From 3.6 to 3.7](3.6to3.7.md)
-5. [From 3.5 to 3.6](3.5to3.6.md)
 
 ## REST API
 HortusFox features a REST API beginning with v3.1. Please refer to our [API Reference](api.md) for more information.
