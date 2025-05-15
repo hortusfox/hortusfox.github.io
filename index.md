@@ -35,7 +35,7 @@ in your local environment. It is especially suited for tech savy plant parents w
 open-source plant management app where they also have control over their data.
 
 ## Installation
-Please view the installation guide of the <a href="https://github.com/danielbrendel/hortusfox-web">web application</a> in order to install HortusFox.
+Please view the installation guide of the <a href="https://github.com/danielbrendel/hortusfox-web?tab=readme-ov-file#installation">web application</a> in order to install HortusFox.
 
 ## Features
 1. [The Dashboard](dashboard.md)
