@@ -17,6 +17,24 @@ You can generate as many API keys as you want.
 
 ## API endpoints
 
+### Locations
+
+#### Get location list
+
+Returns a list of locations
+
+```
+ANY /api/locations/list?only_active=(boolean)&include_plants=(boolean)&include_info=(string)
+```
+
+#### Get location info
+
+Get details info of a location
+
+```
+ANY /api/locations/info?location=(location ID)&include_plants(boolean)
+```
+
 ### Plants
 
 #### Get plant details
@@ -289,6 +307,25 @@ Adds a new chat message using `System` as username.
 
 ```
 ANY /api/chat/message/add?message=(message content)
+```
+
+### Backups
+
+#### Perform an export
+
+Creates an export with the given resources and returns the URL to the package on success
+
+```
+ANY /api/backup/export?locations=(boolean)&plants=(boolean)&gallery=(boolean)&tasks=(boolean)&inventory=(boolean)&calendar=(boolean)
+```
+
+#### Perform an import
+
+Performs an import of a backup package
+
+```
+POST /api/backup/import?locations=(boolean)&plants=(boolean)&gallery=(boolean)&tasks=(boolean)&inventory=(boolean)&calendar=(boolean)
+FILE IDENT: "import" (zip)
 ```
 
 ### API call results
