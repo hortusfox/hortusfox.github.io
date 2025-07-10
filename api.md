@@ -24,7 +24,7 @@ You can generate as many API keys as you want.
 Returns a list of locations
 
 ```
-ANY /api/locations/list?only_active=(boolean)&include_plants=(boolean)&include_info=(string)&paginate=(num)
+ANY /api/locations/list?only_active=(boolean)&include_plants=(boolean)&include_info=(string)&paginate=(number)&limit=(number)
 ```
 
 #### Get location info
