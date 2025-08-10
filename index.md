@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/cMzirA3ZJcU?si=dhE48KMBsPzwOaG4" title="HortusFox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <img src="gfx/screenshot-desktop.png" alt="screenshot-desktop">
 </p>
 
 ## Description
