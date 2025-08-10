@@ -188,7 +188,7 @@ ANY /api/tasks/fetch?done=(0/1)&limit=(amount of maximum returned entries)
 Adds a new task
 
 ```
-ANY /api/tasks/add?title=(title text)&description=(task description)&due_date=(Optional due date)
+ANY /api/tasks/add?title=(title text)&description=(task description)&due_date=(Optional due date)&plant=(optional linked plant ID)
 ```
 
 #### Edit task
