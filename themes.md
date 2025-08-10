@@ -57,10 +57,16 @@ Now let's open the layout.json file. It specifies all attributes of the theme.
 
 The `name` attribute must match the directory name of which the files are located in. Next you need to specify the banner image. All asset paths are relative to their theme directory. Now you can include a `rules` object. These rules are applied to the banner image. 
 
-Optionally you can also reference an additional CSS file using the `include` attribute:
+Optionally you can also reference additional assets.
 
+Reference a stylesheet file using the `include` attribute:
 ```json
 "include": "styles.css"
+```
+
+Reference a JavaScript file using the `script` attribute
+```json
+"script": "behaviour.js"
 ```
 
 For the optional icon, you need to specify the asset file. Next you can specify attributes to the base div container of the icon and the image itself. There are all valid CSS rules allowed to be specified here.
