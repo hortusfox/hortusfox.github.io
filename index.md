@@ -58,6 +58,9 @@ HortusFox features a REST API beginning with v3.1. Please refer to our [API Refe
 HortusFox offers the possibility to share photos via hortusfox.com. This can be done either privately or publicly.
 If you want to let your workspace share photos on your own backend, please refer to [Custom Sharing Backend](sharing.md) for more information.
 
+## Community hosting
+HortusFox is also available via third-party hosters. Please note that we are not responsible for their actions or content and we do only provide a list of hosters for informational purposes. View list [here](ch.md). 
+
 ## Screenshots
 <p align="center">
     <img src="gfx/Screenshot 2024-03-05 180231.png" alt="screenshot" width="250"/>&nbsp;
