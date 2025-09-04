@@ -21,7 +21,7 @@
 <p align="center">
     <a href="https://discord.gg/kc6xGmjzVS"><img src="https://img.shields.io/badge/discord-5715BA?style=for-the-badge&logo=discord&logoColor=white" alt="social-discord"></a>
     <a href="https://bsky.app/profile/danielbrendel.com"><img src="https://img.shields.io/badge/bluesky-5555FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="social-bluesky"></a>
-    <a href="https://www.youtube.com/@HortusFox"><img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="social-youtube"></a>
+    <a href="https://www.youtube.com/@daniel-brendel-developer"><img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="social-youtube"></a>
 </p>
 
 <p align="center">
