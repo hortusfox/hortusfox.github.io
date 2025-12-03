@@ -1,9 +1,16 @@
 ## Tasks
 
 Tasks are useful to keep track of everything you need to do to take care for your plants.
-You can create tasks defining title, description and due date (if desired). 
 
 <img src="gfx/Screenshot 2024-03-05 183931.png" alt="screenshot" width="250"/>
+
+You can define the following information for a task:
+- Title
+- Description
+- Optional due date
+- Optional set as recurring if due date is provided
+
+<img src="gfx/Screenshot 2025-12-03 104908.png" alt="screenshot" width="250"/>
 
 If you have specified a due date and it's overdue then it will also be shown in the 
 warning section of the dashboard. 

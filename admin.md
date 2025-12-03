@@ -8,6 +8,7 @@ What you can do:
 - Manage media settings of app look
 - Manage users
 - Manage locations
+- Manage proxy authentication
 - Manage plant attributes
 - Manage calendar settings
 - Manage e-mailing settings
@@ -15,9 +16,9 @@ What you can do:
 - Export or import your data
 - Manage OpenWeatherMap settings
 - Manage API keys
-- View infos and perform version check
+- View system infos, view project infos, view extension list, clear cache and perform version check
 
-<img src="gfx/Screenshot 2024-07-02 225017.png" alt="screenshot"/>
+<img src="gfx/Screenshot 2025-12-03 105955.png" alt="screenshot"/>
 
 <img src="gfx/Screenshot 2024-03-05 194700.png" alt="screenshot"/>
 
@@ -25,16 +26,22 @@ What you can do:
 
 <img src="gfx/Screenshot 2024-03-05 194949.png" alt="screenshot"/>
 
+<img src="gfx/Screenshot 2025-12-03 105733.png" alt="screenshot"/>
+
+<img src="gfx/Screenshot 2025-12-03 105857.png" alt="screenshot"/>
+
+<img src="gfx/Screenshot 2025-12-03 105945.png" alt="screenshot"/>
+
 <img src="gfx/Screenshot 2024-03-05 195047.png" alt="screenshot"/>
 
 <img src="gfx/Screenshot 2024-03-05 195106.png" alt="screenshot"/>
 
 <img src="gfx/Screenshot 2024-03-05 195127.png" alt="screenshot"/>
 
+<img src="gfx/Screenshot 2025-12-03 104346.png" alt="screenshot"/>
+
 Note: You can also check for new versions via the related button. When issued the command then the system will try to check whether a new
 version is available or not. If so then it shows you the new version and a link to obtain the new version.
-
-<img src="gfx/Screenshot 2024-03-05 195207.png" alt="screenshot"/>
 
 <p><hr/></p>
 
