@@ -1,1 +1,1 @@
-Documentation website for HortusFox, a self-hosted collaborative plant management system
+Documentation for HortusFox, a self-hosted collaborative plant management system
