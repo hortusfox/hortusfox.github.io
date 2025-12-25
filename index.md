@@ -30,7 +30,7 @@
 </p>
 
 ## Description
-Welcome to the documentation of HortusFox - a self-hosted collaborative plant management system.
+Welcome to the documentation of HortusFox - the self-hosted collaborative plant management system.
 HortusFox is a self-hosted collaborative platform that helps you keeping track of all your plants
 in your local environment. It is especially suited for tech savy plant parents who want to use an
 open-source plant management app where they also have control over their data.
